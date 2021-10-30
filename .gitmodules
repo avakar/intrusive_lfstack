@@ -1,0 +1,6 @@
+[submodule "deps/mutest"]
+	path = deps/mutest
+	url = https://github.com/avakar/mutest.git
+[submodule "deps/container_of"]
+	path = deps/container_of
+	url = https://github.com/avakar/container_of.git
